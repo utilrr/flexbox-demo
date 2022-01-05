@@ -1,0 +1,14 @@
+.box {
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    margin-top 10px
+
+}
+
+#contaier {
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
